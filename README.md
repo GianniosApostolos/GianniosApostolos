@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone
 
 <!--
 **GianniosApostolos/GianniosApostolos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,38 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Undergraduate computer science student of University of Thessaly, Larisa, Greece Interested in: C#, Java, Spring Boot, .NET, Unity, C, HTML, CSS, PHP, JS, ASM
+
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
+
 -->
+
+As of now, I'm an undergraduate computer science student and this is where I will be uploading some of my personal projects so anyone can edit or use.
+
+I'm currently practising C# and Java  
+I'm learning Spring Boot 3 and React  
+
+
+
+
+
