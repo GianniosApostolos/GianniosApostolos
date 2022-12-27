@@ -39,7 +39,7 @@ Undergraduate computer science student of University of Thessaly, Larisa, Greece
 
 -->
 
-As of now, I'm an undergraduate computer science student and this is where I will be uploading some of my personal projects so anyone can edit or use. You can find more information about me on my linkedin [profile](https://www.linkedin.com/in/apostolos-giannios-917b0225b/)
+As of now, I'm an undergraduate computer science student and this is where I will be uploading some of my personal projects so anyone can edit or use. You can find more information about me on my linkedin [profile](https://www.linkedin.com/in/gianniosapostolos)
 
 I'm currently practising C# and Java  
 I'm learning Spring Boot 3 and React  
