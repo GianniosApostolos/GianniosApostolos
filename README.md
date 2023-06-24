@@ -1,4 +1,4 @@
-### Hello everyone
+### Hello There! 👋
 
 <!--
 **GianniosApostolos/GianniosApostolos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,10 +39,13 @@ Undergraduate computer science student of University of Thessaly, Larisa, Greece
 
 -->
 
-As of now, I'm an undergraduate computer science student and this is where I will be uploading some of my personal projects so anyone can edit or use. You can find more information about me on my linkedin [profile](https://www.linkedin.com/in/gianniosapostolos)
+Welcome to my Github profile! I'm an undergraduate computer science student at the University of Thessaly
 
-I'm currently practising C# and Java  
-I'm learning Spring Boot 3 and React  
+Currently, I'm focusing on learning and improving my skills regarding C#, Java and VB, striving to become a proficient developer. Additionally, over the last years I have developed a strong interest for a wide range of technologies and languages. Including, but not limited to, .NET, Unity, C, HTML, CSS, PHP, JS, and ASM.  
+
+Feel free to explore my repositories and take a look at the code. Who knows? You might find something that you like and can use 🙂
+
+If you are interested for more information, you can find me on [linkedin](https://www.linkedin.com/in/gianniosapostolos)
 
 
 
