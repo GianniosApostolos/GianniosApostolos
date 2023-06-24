@@ -41,11 +41,11 @@ Undergraduate computer science student of University of Thessaly, Larisa, Greece
 
 Welcome to my Github profile! I'm an undergraduate computer science student at the University of Thessaly
 
-Currently, I'm focusing on learning and improving my skills regarding C#, Java and VB, striving to become a proficient developer. Additionally, over the last years I have developed a strong interest for a wide range of technologies and languages. Including, but not limited to, .NET, Unity, C, HTML, CSS, PHP, JS, and ASM.  
+Currently, I am in the process of completing my internship and I'm focusing on learning and improving my skills regarding C#, Java and VB, striving to become a proficient developer. Additionally, over the last years I have developed a strong interest for a wide range of technologies and languages. Including, but not limited to, .NET, Unity, C, HTML, CSS, PHP, JS, and ASM.  
 
 Feel free to explore my repositories and take a look at the code. Who knows? You might find something that you like and can use 🙂
 
-If you are interested for more information, you can find me on [linkedin](https://www.linkedin.com/in/gianniosapostolos)
+If you are interested for more information, you can find me on [linkedin](https://www.linkedin.com/in/gianniosapostolos) ![Untitled](https://github.com/GianniosApostolos/GianniosApostolos/assets/104420375/817b2dab-037d-48d8-93d6-eb427fe9e76d)
 
 
 
