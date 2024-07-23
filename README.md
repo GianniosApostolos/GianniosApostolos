@@ -39,7 +39,7 @@ Undergraduate computer science student of University of Thessaly, Larisa, Greece
 
 -->
 
-I'm an undergraduate computer science student at the University of Thessaly
+I'm a computer science graduate from the University of Thessaly
 
 Currently, working as a software engineer. I'm focusing on learning and improving my skills regarding C#, Java/Spring-boot and VB, striving to become a proficient developer. Additionally, over the last years I have developed a strong interest for a wide range of technologies and languages. Including, but not limited to, .NET, Unity, C, HTML, CSS, PHP, JS, and ASM.  
 
