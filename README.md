@@ -39,15 +39,18 @@ Undergraduate computer science student of University of Thessaly, Larisa, Greece
 
 -->
 
-I'm a computer science graduate from the University of Thessaly
+I'm a computer science graduate from the University of Thessaly, currently working full-time as a software engineer.
 
-Currently, working as a software engineer. I'm focusing on learning and improving my skills regarding C#, Java/Spring-boot and VB, striving to become a proficient developer. Additionally, over the last years I have developed a strong interest for a wide range of technologies and languages. Including, but not limited to, .NET, Unity, C, HTML, CSS, PHP, JS, and ASM.  
+I'm focusing on learning and improving my skills, striving to become a proficient developer.
+Over the last years I have developed a strong interest for a wide range of technologies and languages. Including, but not limited to:
+* VB
+* Flutter Framework
+* C#
+* Spring Boot
+* Unity Game Engine
+* CSS,JS,PHP,HTML
+* ASM (inspired by my curiosity about reverse engineering)
 
-Feel free to explore my repositories and take a look at the code. Who knows? You might find something that you like and can use 🙂
+Feel free to explore my repositories and take a look at the code! Who knows? You might find something that you like and can use and potentially expand upon!🙂 They are after all, designed to tackle everyday challenges that I have and reflect my learning journey. 
 
 If you are interested for more information, you can find me on [![Linkedin](https://github.com/GianniosApostolos/GianniosApostolos/assets/104420375/817b2dab-037d-48d8-93d6-eb427fe9e76d)](https://www.linkedin.com/in/gianniosapostolos)
-
-
-
-
-
